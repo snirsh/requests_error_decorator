@@ -22,4 +22,5 @@ example() # an example function that you can run yourself and see what the outpu
 
 ## Plans:
 I'm planning to add more useful decorators to this repo :)
+<br>
 If you have any ideas, feel free to contact me!
