@@ -18,3 +18,8 @@ def foo():
 
 example() # an example function that you can run yourself and see what the output looks like
 ```
+
+
+## Plans:
+I'm planning to add more useful decorators to this repo :)
+If you have any ideas, feel free to contact me!
