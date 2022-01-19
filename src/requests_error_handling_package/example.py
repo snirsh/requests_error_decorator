@@ -1,6 +1,6 @@
 import requests
 
-from src.requests_error_handling_package.requests_error_decorators import requests_error_handler
+from requests_error_handling_package.requests_error_decorators import requests_error_handler
 
 
 @requests_error_handler
